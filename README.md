@@ -1,2 +1,18 @@
-# KCC-Website-Clone
-This Repo Contains the Clone of the website
+
+# KCC Institute Website Clone
+
+This project is a frontend clone of the KCC Institute website.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Responsive design
+- Navigation bar
+- Hero section
+- Courses section
+- Footer
+
+
